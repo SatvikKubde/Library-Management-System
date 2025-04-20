@@ -1,0 +1,5 @@
+Book ID=1; Title=a; Author=a1; Copies=7
+Book ID=2; Title=b; Author=b1; Copies=7
+Book ID=3; Title=c; Author=c1; Copies=7
+Book ID=4; Title=d; Author=d1; Copies=5
+Book ID=5; Title=e; Author=e1; Copies=8

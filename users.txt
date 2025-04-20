@@ -1,0 +1,5 @@
+User ID=11; Name=a; Type=Student 🎓
+User ID=12; Name=b; Type=Librarian 📚
+User ID=13; Name=vidit; Type=Student 🎓
+User ID=100; Name=Boss; Type=Librarian 📚
+User ID=14; Name=Satvik; Type=Student 🎓
